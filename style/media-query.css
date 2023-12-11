@@ -1,0 +1,722 @@
+@media screen and (max-width: 1080px){
+    .con{
+        max-width: 900px;
+    }
+
+    .heading{
+        font-size: 40px;
+    }
+
+    .content{
+        width: 60%;
+    }
+
+    .content .heading{
+        font-size: 35px;
+    }
+
+    .content .small-heading{
+        font-size: 25px;
+    }
+
+    .girl-img{
+        height: 400px;
+        width: 100%;
+    }
+
+    .img{
+        height: 400px;
+        width: 100%;
+    }
+
+    .tv{
+        width: 400px;
+        margin-right: 50px;
+        /* margin-left: 50px; */
+    }
+    
+    .tv-img{
+        height: 400px;
+        width: 400px;
+    }
+
+    .que-box{
+        max-width: 900px;
+        font-size: 20px;
+    }
+
+    .call{
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .con{
+        max-width: 800px;
+    }
+
+    .heading{
+        font-size: 40px;
+    }
+
+    .content{
+        width: 60%;
+    }
+
+    .content .heading{
+        font-size: 30px;
+    }
+
+    .content .small-heading{
+        font-size: 20px;
+    }
+
+    .girl-img{
+        height: 350px;
+        width: 100%;
+    }
+
+    .img{
+        height: 350px;
+        width: 100%;
+    }
+
+    .tv{
+        width: 350px;
+        margin-right: 50px;
+        /* margin-left: 50px; */
+    }
+    
+    .tv-img{
+        height: 350px;
+        width: 350px;
+    }
+
+    .que-box{
+        max-width: 700px;
+        font-size: 20px;
+    }
+
+    .call{
+        max-width: 800px;
+    }
+}
+
+@media screen and (max-width: 860px){
+    .con{
+        max-width: 730px;
+    }
+
+    .heading{
+        font-size: 2rem;
+    }
+
+    .small-heading{
+        font-size: 1.2rem;
+    }
+
+    p{
+        font-size: 1rem;
+    }
+
+    a{
+        font-size: 1rem;
+    }
+
+    .girl{
+        width: 250px;
+        margin-right: 0px;
+    }
+
+    .girl-img{
+        height: 325px;
+        width: 100%;
+    }
+
+    .img{
+        height: 250px;
+        width: 100%;
+    }
+
+    .tv{
+        width: 300px;
+        margin-right: 50px;
+    }
+    
+    .tv-img{
+        height: 250px;
+        width: 300px;
+    }
+
+    .que-box{
+        max-width: 700px;
+        font-size: 1rem;
+    }
+
+    .call, .links-1, .foot{
+        font-size: 0.85rem;
+        max-width: 700px;
+    }
+
+    .links a{
+        font-size: 0.85rem;
+    }
+
+    .foot p{
+        font-size: 0.85rem;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .con{
+        max-width: 675px;
+    }
+
+    .logo{
+        height: 4rem;
+        width: 9rem;
+    }
+
+    .buttons{
+        height: 2rem;
+        /* width: 8rem; */
+    }
+
+    .heading{
+        font-size: 1.85rem;
+    }
+
+    .small-heading{
+        font-size: 1rem;
+    }
+
+    p{
+        font-size: 0.85rem;
+    }
+
+    a{
+        font-size: 0.85rem;
+    }
+
+    .box-2{
+        height: 400px;
+    }
+
+    .content .heading{
+        font-size: 1.85rem;
+    }
+
+    .content .small-heading{
+        font-size: 1rem;
+    }
+
+    .que-box{
+        height: 16px;
+        width: 530px;
+    }
+
+    footer{
+        height: 400px;
+    }
+
+    .call, .links-1, .foot{
+        font-size: 0.85rem;
+        max-width: 530px;
+    }
+
+    .links a{
+        font-size: 0.85rem;
+    }
+
+    .links-1{
+        gap: 100px;
+    }
+
+    .foot p{
+        font-size: 0.85rem;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .con{
+        max-width: 550px;
+    }
+
+    .nav{
+        height: 70px;
+    }
+
+    .box-1{
+        /* width: 1300px; */
+        height: 350px;
+    }
+
+    .logo{
+        height: 3rem;
+        width: 7rem;
+    }
+
+    .buttons{
+        height: 2rem;
+        /* width: 8rem; */
+    }
+
+    .btn a{
+        font-size: 0.65rem;
+    }
+
+    .mid{
+        margin-top: 50px;
+    }
+
+    .heading{
+        font-size: 1.5rem;
+    }
+
+    .box-2{
+        height: 300px;
+    }
+
+    .small-heading{
+        font-size: 0.85rem;
+    }
+
+    .content .heading{
+        font-size: 1.5rem;
+    }
+
+    .content .small-heading{
+        font-size: 0.85rem;
+    }
+
+    p{
+        font-size: 0.65rem;
+    }
+
+    a{
+        font-size: 0.65rem;
+    }
+
+    .address{
+        height: 10px;
+        margin-top: 10px;
+        
+    }
+
+    #email{
+        height: 5px;
+        font-size: 0.65rem;
+        width: 150px;
+    }
+
+    .get-started{
+        height: 15px;
+        font-size: 0.65rem;
+        width: 70px;
+    }
+
+    .girl{
+        width: 200px;
+        margin-right: 0px;
+    }
+
+    .girl-img{
+        height: 250px;
+        width: 100%;
+    }
+
+    .img{
+        height: 150px;
+        width: 80%;
+        margin-left: 20px;
+    }
+
+    .tv{
+        width: 200px;
+        margin-right: 50px;
+    }
+    
+    .tv-img{
+        height: 200px;
+        width: 200px;
+        
+    }
+
+    .box-3{
+        height: 480px;
+    }
+
+    .que-box{
+        width: 450px;
+        height: 12px;
+        font-size: 0.85rem;
+    }
+
+    .again{
+        margin-bottom: 50px;
+    }
+
+    footer{
+        height: 300px;
+    }
+
+    .call{
+        margin-top: 30px;
+    }
+
+    .call, .links-1, .foot{
+        font-size: 0.65rem;
+        max-width: 450px;
+    }
+
+    .links a{
+        font-size: 0.65rem;
+    }
+
+    .links-1{
+        gap: 70px;
+    }
+
+    .foot p{
+        font-size: 0.65rem;
+    }
+}
+
+
+@media screen and (max-width: 513px){
+.con{
+    max-width: 450px;
+}
+
+.nav{
+    height: 50px;
+}
+
+.box-1{
+    /* width: 1300px; */
+    height: 350px;
+}
+
+.logo{
+    height: 1.8rem;
+    width: 5rem;
+    margin-left: 2px;
+}
+
+.buttons{
+    height: 1.85rem;
+    width: 45%;
+}
+
+.btn{
+    height: 1rem;
+    width: 2.75rem;
+    margin-right: 6px;
+}
+
+.lang{
+    height: 1rem;
+    width: 4.75rem;
+}
+
+.btn a{
+    font-size: 10px;
+    
+}
+
+.mid{
+    margin-top: 50px;
+}
+
+.heading{
+    font-size: 1.2rem;
+}
+
+.box-2{
+    height: 300px;
+}
+
+.small-heading{
+    font-size: 0.8rem;
+    padding-block: 8px;
+}
+
+.content .heading{
+    font-size: 1.2rem;
+}
+
+.content .small-heading{
+    font-size: 0.8rem;
+}
+
+p{
+    font-size: 0.65rem;
+}
+
+a{
+    font-size: 0.65rem;
+}
+
+.address{
+    height: 10px;
+    margin-top: 15px;
+    
+}
+
+#email{
+    height: 5px;
+    font-size: 0.65rem;
+    width: 150px;
+}
+
+.get-started{
+    height: 15px;
+    font-size: 0.65rem;
+    width: 70px;
+}
+
+.girl{
+    width: 200px;
+    margin-right: 0px;
+}
+
+.girl-img{
+    height: 250px;
+    width: 100%;
+}
+
+.img{
+    height: 150px;
+    width: 80%;
+    margin-left: 20px;
+}
+
+.tv{
+    width: 200px;
+    margin-right: 50px;
+}
+
+.tv-img{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.box-3{
+    height: 480px;
+}
+
+.que-box{
+    width: 400px;
+    height: 12px;
+    font-size: 0.85rem;
+}
+
+.again{
+    margin-bottom: 50px;
+}
+
+footer{
+    height: 300px;
+}
+
+.call{
+    margin-top: 30px;
+}
+
+.call, .links-1, .foot{
+    font-size: 0.65rem;
+    max-width: 400px;
+}
+
+.links a{
+    font-size: 0.65rem;
+}
+
+.links-1{
+    gap: 70px;
+}
+
+.foot p{
+    font-size: 0.65rem;
+}
+}
+
+@media screen and (max-width: 450px){
+    .con{
+        max-width: 400px;
+    }
+    
+    .nav{
+        height: 50px;
+        gap: 30%;
+    }
+    
+    .box-1{
+        /* width: 1300px; */
+        height: 300px;
+    }
+    
+    .logo{
+        height: 1.8rem;
+        width: 5rem;
+        margin-left: 2px;
+    }
+    
+    .buttons{
+        height: 1rem;
+        width: 55%;
+    }
+    
+    .btn{
+        height: 0.85rem;
+        width: 2.3rem;
+        margin-right: 6px;
+    }
+    
+    .lang{
+        height: 0.85rem;
+        width: 4.3rem;
+    }
+    
+    .btn a{
+        font-size: 10px;
+        
+    }
+    
+    .mid{
+        margin-top: 50px;
+    }
+    
+    .heading{
+        font-size: 1rem;
+    }
+    
+    .box-2{
+        border-top: 4px solid #232323;
+        height: 225px;
+    }
+    
+    .small-heading{
+        font-size: 0.7rem;
+        padding-block: 8px;
+    }
+    
+    .content .heading{
+        font-size: 1rem;
+    }
+    
+    .content .small-heading{
+        font-size: 0.7rem;
+    }
+    
+    p{
+        font-size: 0.65rem;
+    }
+    
+    a{
+        font-size: 0.65rem;
+    }
+    
+    .address{
+        height: 10px;
+        margin-top: 15px;
+        
+    }
+    
+    #email{
+        height: 5px;
+        font-size: 10px;
+        width: 150px;
+    }
+    
+    .get-started{
+        height: 15px;
+        font-size: 10px;
+        width: 70px;
+    }
+    
+    .girl{
+        width: 150px;
+        margin-right: 0px;
+    }
+    
+    .girl-img{
+        height: 200px;
+        width: 100%;
+    }
+    
+    .img{
+        height: 100px;
+        width: 80%;
+        margin-left: 20px;
+    }
+
+    .div{
+        overflow: hidden;
+    }
+
+    .div .content{
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    
+    .tv{
+        width: 150px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    .tv-img{
+        height: 150px;
+        width: 150px; 
+        margin-left: 0px;  
+        margin-right: 0px;  
+    }
+    
+    .box-3{
+        height: 480px;
+        border-top: 4px solid #232323;
+    }
+    
+    .que-box{
+        width: 300px;
+        height: 3px;
+        font-size: 0.75rem;
+    }
+    
+    .again{
+        text-align: center;
+        margin-bottom: 50px;
+        font-size: 12px;
+    }
+    
+    footer{
+        height: 300px;
+        border-top: 4px solid #232323;
+    }
+    
+    .call{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .call, .links-1, .foot{
+        font-size: 0.6rem;
+        max-width: 300px;
+    }
+    
+    .links a{
+        font-size: 0.6rem;
+    }
+    
+    .links-1{
+        gap: 70px;
+        margin-top: 0px;
+    }
+    
+    .foot p{
+        font-size: 0.6rem;
+        margin-top: 10px;
+    }
+    }
